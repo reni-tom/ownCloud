@@ -175,7 +175,7 @@ Install ownCloud using the following command:
 
 Your ownCloud instance is now ready to use.
 
-To finalize the installation, you can also use the graphical installation wizard. For more information, see [Graphical Installation Wizard](https://doc.owncloud.com/server/10.6/admin_manual/installation/installation_wizard.html).
+To finalize the installation, you can also use the installation wizard. For more information, see [Graphical Installation Wizard](https://doc.owncloud.com/server/10.6/admin_manual/installation/installation_wizard.html).
 
 ## Configure your ownCloud
 
@@ -202,7 +202,7 @@ You can connect to your ownCloud server either using any Web browser or any of t
 - [ownCloud Desktop Synchronization Client](connect-to-owncloud.md#owncloud-desktop-synchronization-client)
 - [ownCloud Mobile App](connect-to-owncloud.md#owncloud-mobile-app)
 
-Access your ownCLoud account, share files, create content, and [manage users](configure-owncloud.md#create-user).
+Access your ownCloud account, share files, create content, [add users](configure-owncloud.md#create-user) and so on.
 
 
 
