@@ -125,3 +125,4 @@ To create a user account:
 
 ![user_screen](./media/user.PNG)
 
+The user details appear on the list.
